@@ -32,13 +32,14 @@
 			border-style: solid;
 			border-color: _palette(invert, border);
 			border-width: 5px !important;
-			font-family: _font(family-heading);
+			// font-family: _font(family-heading);
+      font-family: 'Yanone Kaffeesatz', sans-serif;
 			font-size: 2.25rem;
 			font-weight: _font(weight-heading);
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
-			text-transform: uppercase;
+			// text-transform: uppercase;
 			visibility: visible;
 
 			&:hover {
